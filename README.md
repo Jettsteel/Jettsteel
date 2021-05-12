@@ -5,7 +5,7 @@ const Arthur = {
   name: "Arthur Sousa",
   abilities: ['JavaScript', 'HTML and CSS', 'GML', 'Git/Bash', 'Python'],
   frameworks: ['React.js', 'Django.py'],
-  hobbies: ['Music production', 'Game design']
+  skills: ['Music production', 'Game design', 'some scriptwriting']
 }
 ```
 Nice to meet you!👍
