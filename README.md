@@ -8,4 +8,4 @@ const Arthur = {
   skills: ['Music production', 'Game design', 'some scriptwriting']
 }
 ```
-Nice to meet you!👍
+Nice to meet you!
