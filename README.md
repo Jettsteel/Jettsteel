@@ -3,8 +3,8 @@
 ```js
 let Arthur = {
   name: "Arthur Sousa",
-  abilities: ['JavaScript', 'HTML and CSS', 'GML', 'Git/Bash', 'Python'],
-  frameworks: ['React.js', 'Django.py'],
+  abilities: ['JavaScript', 'HTML and CSS', 'GML', 'Git/Bash', 'Python', 'SQLite'],
+  frameworks: ['React.js', 'Django.py', 'Electron.js'],
   skills: ['Music production', 'Game design', 'some scriptwriting']
 }
 ```
